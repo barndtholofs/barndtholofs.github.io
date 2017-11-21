@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Barndth-'Olofs, omm dansbands&auml;lskarna sj&auml;lva f&aring;r v&auml;lja!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<frameset rows="118,549*" cols="121,886*" frameborder="NO" border="0" framespacing="0"> 
+  <frame name="cornerFrame" scrolling="NO" noresize src="corner.htm" >
+  <frame name="topFrame" scrolling="AUTO" src="top.htm" noresize >
+  <frame name="leftFrame" scrolling="AUTO" noresize src="left.htm">
+  <frame name="mainFrame" src="main.htm" scrolling="AUTO" noresize>
+</frameset>
+<noframes><body bgcolor="#FFFFFF">
+
+</body></noframes>
+</html>
